@@ -1,0 +1,26 @@
+h1,
+h2{
+    color: gray;
+}
+h1{
+    border-bottom: 2px solid yellow;
+}
+h2{
+    text-decoration: underline blue;
+}
+p {
+     color: maroon;
+}
+
+body{
+    font-family: sans-serif;
+}
+p.greentea{
+    color: green;
+}
+p.icydrink{
+    color: blue;
+}
+p.herbtea{
+    color: rgb(134, 22, 185);
+}
